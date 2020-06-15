@@ -1,0 +1,6 @@
+We are using the API Gateway to build or APIs and Lambda Function to store our JavaScript Code.
+WE use NoSQL Database Provided by Amazon Call DynamoDB
+Get Lambda Function to to view the Products Table data.
+Post Lambda Function to post item in Products Table.
+Delete Lambda Function to delete item from Products Table.
+Update Lambda Function to Update item in the Products table
